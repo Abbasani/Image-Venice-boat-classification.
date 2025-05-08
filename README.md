@@ -3,7 +3,7 @@
 ## Project Report
 
 This project focused on classifying boat images using Convolutional Neural Networks (CNNs). We explored both a custom-built CNN and a pretrained model (MobileNet) to identify boat categories within a dataset of 4,774 images spanning 24 distinct classes.
-## Data Set
+## Dataset
 https://drive.google.com/file/d/1dPu0jymKrDR34xtgLijOK_DgwxIRyOBk/view
 
 ## Data Preprocessing
